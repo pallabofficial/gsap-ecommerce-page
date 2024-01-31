@@ -80,9 +80,42 @@ body{
     background-color: black;
     width:10vw;
     height: 7vh;
-    padding: 1vw 2vh;
+    padding: 0 2vh;
     position:absolute;
-    top:70%;
+    top:65%;
     left:50%;
     transform: translate(-50%,-50%);
+ }
+ #banner-drop-down{
+    
+    font-size:5vw;
+    font-weight: 100;
+    position:absolute;
+    top:75%;
+    left:50%;
+    transform: translate(-50%,-50%);
+ }
+ .banner-img{
+    width:20vw;
+    aspect-ratio: 3/1.5;
+    position:absolute;
+    object-fit: cover; 
+    object-position: center center;
+   
+ }
+ #banner-img-1{
+    top: 10vh;
+    left:3vw;
+ }
+ #banner-img-2{
+    top: 10vh;
+    right:3vw;
+ }
+ #banner-img-3{
+    bottom: 10vh;
+    left:8vw;
+ }
+ #banner-img-4{
+    bottom: 10vh;
+    right:8vw;
  }
