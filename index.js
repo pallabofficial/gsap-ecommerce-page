@@ -39,6 +39,7 @@ tl
         delay:1.1,
     });
     gsap.from("#banner-title, #banner-btn, #banner-drop-down",{
+        scale:1.8,
         delay:2.1,
         opacity:0,
         duration:1,

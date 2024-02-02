@@ -8,7 +8,7 @@ click here to visit the webpage👉👉 [https://pallabofficial.github.io/gsap-e
 
 ## My Learnings
 •	CSS Properties: object-fit:cover; object-position: center center;<br>
-•	2<br>
+•	GSAP Scroll Trigger<br>
 •	3<br>
 •	4<br>
 •	5<br>
